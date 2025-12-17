@@ -1,6 +1,6 @@
 name: horizontal_tree_selector
 description: A Flutter horizontal multi-level tree selector widget. 一个横向多级树形结构选择器组件，支持无限层级数据选择。
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/symboy/horizontal_tree_selector
 repository: https://github.com/symboy/horizontal_tree_selector
 issue_tracker: https://github.com/symboy/horizontal_tree_selector/issues
